@@ -1,0 +1,11 @@
+The only required library is eigen
+http://eigen.tuxfamily.org/index.php?title=Main_Page
+Make sure cmake finds eigen
+
+
+Instructions:
+
+mkdir build
+cmake ..
+make
+./main
